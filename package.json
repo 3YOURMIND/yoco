@@ -24,7 +24,7 @@
     "font"
   ],
   "license": "MIT",
-  "style": "disy/yoco-icon.css",
+  "style": "dist/yoco-icon.css",
   "name": "@3yourmind/yoco",
   "repository": {
     "type": "git",
